@@ -1,0 +1,1 @@
+from open_biomed.models.molecule.unimap.unimap import UniMAP

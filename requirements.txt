@@ -1,0 +1,9 @@
+torch>=1.13.0
+torch_geometric
+transformers>=4.28.1
+SentencePiece
+rdkit
+pandas
+scanpy
+einops
+local_attention
